@@ -1,0 +1,20 @@
+Date : 5/12/2020
+Heure : 13:50
+IDTransaction :transi 
+Type : Depot
+Montant : 1300
+Date : 11/6/2020
+Heure : 8:50
+IDTransaction :transii
+Type : Retrait
+Montant : 1800
+Date : 5/12/2020
+Heure : 3:5
+IDTransaction :transiii
+Type : Depot
+Montant : 300
+Date : 5/1/2020
+Heure : 15:50
+IDTransaction :transiiii
+Type : Retrait
+Montant : 2000 
