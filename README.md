@@ -1,5 +1,5 @@
 
-# bank-log-analyzer — Bank Transactions Log Management and Analysis
+# Bank Log Analyzer  — Bank Transactions Log Management and Analysis
 
 ## Description
 
