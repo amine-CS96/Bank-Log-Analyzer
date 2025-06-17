@@ -1,4 +1,9 @@
 ---
+title: bank-log-analyzer
+description: >
+  This C program reads, displays, and analyzes a log file containing bank transactions.
+  It offers a command-line menu interface to load and display logs and calculate statistics.
+---
 
 # bank-log-analyzer — Bank Transactions Log Management and Analysis
 
@@ -6,12 +11,12 @@
 
 This C program reads, displays, and analyzes a log file containing bank transactions. It offers a command-line menu interface to:
 
-* Load and display the raw contents of the log file.
-* Calculate and show useful statistics such as the total number of transactions, total deposit and withdrawal amounts, and the largest transactions.
+ - Load and display the raw contents of the log file.
+ - Calculate and show useful statistics such as the total number of transactions, total deposit and withdrawal amounts, and the largest transactions.
 
 The goal is to practice file handling, string processing, and basic statistical calculations in C.
 
----
+
 
 ## Features
 
