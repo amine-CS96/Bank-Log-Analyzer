@@ -7,11 +7,11 @@ int main()
 int num ;
    char f_log[50] ;
     while(num!=3){
-        printf("------------------------------MENU:-------------------------------------------\n\n");
-printf("\t\t   1. Lecture du fichier de log des transactions .\n");
-printf("\t\t   2. Affichage des statistiques  .\n");
-printf("\t\t   3. Terminer . \n");
-printf("----------------------------------------------------------------------------------\n\n");
+      printf("--------------------------------MENU:----------------------------------------\n\n");
+      printf("\t\t   1. Lecture du fichier de log des transactions .\n");
+      printf("\t\t   2. Affichage des statistiques  .\n");
+      printf("\t\t   3. Terminer . \n");
+      printf("------------------------------------------------------------------------------\n\n");
 
  printf("-->Veuillez saisir un numero a partir de MENU (1,2...,7) :");
  scanf("%d",&num);
