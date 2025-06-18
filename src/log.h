@@ -25,7 +25,7 @@ fr2= fopen(f_log, "r");
 char ligne_pre[250];
 
   if(fr2==NULL){
-    printf("\n -->Erreur d'ouverture de fichier  '%s'  !",f_log);
+    printf("\n --> Erreur d'ouverture de fichier  '%s'  !",f_log);
     return ;
   }
    while(!feof(fr2)){
