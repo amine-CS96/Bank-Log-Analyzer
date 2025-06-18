@@ -75,8 +75,11 @@ The log file should contain structured blocks representing transactions, with ea
 
 ---
 
-## Author
+## License
 
-*Amine El Harrab*
+
+This project is licensed under the MIT License — you are free to use, copy, modify, merge, publish, and distribute the software, provided that the original author is credited and the license notice is included in all copies or substantial portions of the software.
+
+See the [LICENSE](LICENSE) file for full terms.
 
 ---
